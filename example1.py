@@ -1,3 +1,5 @@
+# PROLOG PREDICATES, EXAMPLE 1
+
 alumnos = {"ana", "pepe", "sancho"}
 profesores = {"profe_mario", "profe_oscar", "profe_sara"}
 carreras = {"ing_sistemas", "ing_mecatronica", "ing_electronica"}
