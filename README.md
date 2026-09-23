@@ -2,7 +2,7 @@
 
 Ultima actualización: 2026-09-21
 
-## Predicados
+## Predicados (Example 1)
 
 alumno(x)<br>
 profesor(x)<br>
